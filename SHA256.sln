@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256", "SHA256\SHA256.csproj", "{19063DFF-4DA8-4715-87A0-E09D8DA33636}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256.Tests", "SHA256.Tests\SHA256.Tests.csproj", "{5E1745E6-82F3-4C36-A309-EE96CA11CF04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{19063DFF-4DA8-4715-87A0-E09D8DA33636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19063DFF-4DA8-4715-87A0-E09D8DA33636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19063DFF-4DA8-4715-87A0-E09D8DA33636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1745E6-82F3-4C36-A309-EE96CA11CF04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1745E6-82F3-4C36-A309-EE96CA11CF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1745E6-82F3-4C36-A309-EE96CA11CF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1745E6-82F3-4C36-A309-EE96CA11CF04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
